@@ -356,7 +356,6 @@ Good entries should have a clear reason to exist. They should help people build,
 - [bitsandbytes](https://github.com/bitsandbytes-foundation/bitsandbytes) - 8-bit and 4-bit optimizers + quantization. ![GitHub stars](https://img.shields.io/github/stars/bitsandbytes-foundation/bitsandbytes?style=social)
 - [ExLlamaV2](https://github.com/turboderp/exllamav2) - Highly optimized CUDA kernels for 4-bit/8-bit inference. ![GitHub stars](https://img.shields.io/github/stars/turboderp/exllamav2?style=social)
 - [Optimum](https://github.com/huggingface/optimum) - Hardware-specific acceleration and quantization. ![GitHub stars](https://img.shields.io/github/stars/huggingface/optimum?style=social)
-- [HQQ](https://github.com/mobiusml/hqq) - Half-quadratic quantization toolkit for fast low-bit model quantization and efficient local inference. ![GitHub stars](https://img.shields.io/github/stars/mobiusml/hqq?style=social)
 
 ---
 
@@ -983,7 +982,6 @@ Good entries should have a clear reason to exist. They should help people build,
 
 - [DeepEval](https://github.com/confident-ai/deepeval) - The "Pytest for LLMs". ![GitHub stars](https://img.shields.io/github/stars/confident-ai/deepeval?style=social)
 - [Inspect AI](https://github.com/UKGovernmentBEIS/inspect_ai) - Framework for large language model evaluations from the UK AI Security Institute. ![GitHub stars](https://img.shields.io/github/stars/UKGovernmentBEIS/inspect_ai?style=social)
-- [RAGAs](https://github.com/explodinggradients/ragas) - End-to-end RAG evaluation framework. ![GitHub stars](https://img.shields.io/github/stars/explodinggradients/ragas?style=social)
 - [Lighteval](https://github.com/huggingface/lighteval) - Evaluation toolkit for LLMs across multiple backends with reusable tasks, metrics, and result tracking. ![GitHub stars](https://img.shields.io/github/stars/huggingface/lighteval?style=social)
 - [Hugging Face Evaluate](https://github.com/huggingface/evaluate) - Standardized evaluation metrics. ![GitHub stars](https://img.shields.io/github/stars/huggingface/evaluate?style=social)
 - [OpenAI Evals](https://github.com/openai/evals) - Framework for evaluating LLMs and LLM systems with an open-source registry of 100+ community-contributed benchmarks. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/openai/evals?style=social)
