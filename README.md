@@ -781,7 +781,6 @@ Good entries should have a clear reason to exist. They should help people build,
 
 #### Portrait Animation
 
-- [EchoMimic (Ant Group)](https://github.com/antgroup/echomimic) - Lifelike audio-driven portrait animations through editable landmark conditioning. High-quality talking head generation with precise lip synchronization and natural head movements. AAAI 2025. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/antgroup/echomimic?style=social)
 
 #### Video Generation
 
@@ -1276,7 +1275,6 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Onyx](https://github.com/onyx-dot-app/onyx) - Full-featured AI platform with Chat, RAG, Agents, and Actions. 40+ document connectors and every LLM support. MIT licensed (Community Edition). ![GitHub stars](https://img.shields.io/github/stars/onyx-dot-app/onyx?style=social)
 - [biniou](https://github.com/Woolverine94/biniou) - Self-hosted webUI for 30+ generative AI models. Generate multimedia content with AI on your own computer, even without dedicated GPU (8GB RAM minimum). Works offline once deployed. GPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/Woolverine94/biniou?style=social)
 - [Plane](https://github.com/makeplane/plane) - Open-source Jira, Linear, Monday, and ClickUp alternative. AI-powered project management platform with intelligent task triage, sprint planning, and automated workflows. AGPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/makeplane/plane?style=social)
-- [RAG Web UI](https://github.com/rag-web-ui/rag-web-ui) - Intelligent dialogue system based on RAG technology. Build intelligent Q&A systems on your own knowledge base with modern web interface. Apache-2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/rag-web-ui/rag-web-ui?style=social)
 - [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Self-hosted machine translation API powered by Argos Translate, offering a free and offline-capable alternative to proprietary translation services. AGPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/LibreTranslate/LibreTranslate?style=social)
 - [Buzz](https://github.com/block/buzz) - Self-hostable workspace and Nostr relay implementation where human team members and AI agents collaborate in shared channels, canvases, and workflows. Apache-2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/block/buzz?style=social)
 - [Cloudflare OS](https://github.com/cloudflare/cloudflare-os) - Open-source agent workspace for building and running AI-created apps, documents, and agents in sandboxed Cloudflare Workers with capability-based integrations and reviewable actions. Apache-2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/cloudflare/cloudflare-os?style=social)
