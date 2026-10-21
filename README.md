@@ -243,7 +243,6 @@ Good entries should have a clear reason to exist. They should help people build,
 - [OmniParser](https://github.com/microsoft/OmniParser) - Vision-based GUI parsing model and tooling for computer-use agents. ![GitHub stars](https://img.shields.io/github/stars/microsoft/OmniParser?style=social)
 - [MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - Compact vision-language model family with edge-focused deployment examples and strong OCR-oriented use cases. ![GitHub stars](https://img.shields.io/github/stars/OpenBMB/MiniCPM-V?style=social)
 - [Eagle](https://github.com/NVlabs/Eagle) - NVIDIA multimodal model codebase with open checkpoints and reusable research materials for vision-language and video-language tasks. ![GitHub stars](https://img.shields.io/github/stars/NVlabs/Eagle?style=social)
-- [Moondream](https://github.com/m87-labs/moondream) - Small vision-language model with practical inference examples for edge and real-time image understanding. ![GitHub stars](https://img.shields.io/github/stars/m87-labs/moondream?style=social)
 - [NVIDIA Cosmos](https://github.com/NVIDIA/cosmos) - Open platform of world models, tokenizers, and post-training tools designed for physical AI, robotics, and autonomous systems. ![GitHub stars](https://img.shields.io/github/stars/NVIDIA/cosmos?style=social)
 
 #### Speech & Audio Model Codebases
