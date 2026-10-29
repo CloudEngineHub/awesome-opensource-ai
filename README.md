@@ -1367,6 +1367,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Garcon](https://github.com/cfal/garcon) - Browser and mobile workspace for running and steering parallel Claude Code, Codex, Cursor Agent, OpenCode, Amp, Droid, and Pi sessions, with integrated terminal, file editing, diff review, Git/PR workflows, mobile approvals, scheduling, and cross-agent transfers. GPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/cfal/garcon?style=social)
 - [screenshot-to-code](https://github.com/abi/screenshot-to-code) - MIT-licensed tool that turns screenshots, mockups, and Figma designs into frontend code. ![GitHub stars](https://img.shields.io/github/stars/abi/screenshot-to-code?style=social)
 - [Atlas](https://github.com/pacifio/atlas) - Local-first agentic development environment and source-control system that connects Git commits with agent sessions, tool calls, reasoning traces, and shared memory. ![GitHub stars](https://img.shields.io/github/stars/pacifio/atlas?style=social)
+- [Volt](https://github.com/LeulAria/VOLT) - AI code editor built on VS Code (Code - OSS) that runs Claude Code, Codex, OpenCode and Kimi over ACP, with hunk-level keep/undo of agent edits and a Git checkpoint every turn. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/LeulAria/VOLT?style=social)
 
 #### AI Coding Assistants (open-source)
 
