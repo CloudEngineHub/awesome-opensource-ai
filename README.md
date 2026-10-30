@@ -9,7 +9,7 @@
 Curated open-source artificial intelligence models, libraries, infrastructure, and developer tools.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Follow @alvinunreal on X](https://img.shields.io/badge/Follow-%40alvinunreal-000000?logo=x&logoColor=white)](https://x.com/alvinunreal)
+[![Follow @opensrc_ai on X](https://img.shields.io/badge/Follow-%40opensrc__ai-000000?logo=x&logoColor=white)](https://x.com/opensrc_ai)
 
 <a href="https://svgdiagram.ai"><img src="assets/svgdiagram-logo.svg" alt="svgdiagram.ai" width="40" height="28" align="absmiddle"></a>&nbsp;
 <a href="https://svgdiagram.ai"><b>svgdiagram.ai</b></a> <sub>· Turn your notes into clean, editable SVG diagrams</sub>
